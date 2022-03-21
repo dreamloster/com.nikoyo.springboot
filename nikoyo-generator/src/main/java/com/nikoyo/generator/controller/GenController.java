@@ -1,4 +1,4 @@
-package com.ruoyi.generator.controller;
+package com.nikoyo.generator.controller;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -23,10 +23,10 @@ import com.nikoyo.common.core.domain.AjaxResult;
 import com.nikoyo.common.core.page.TableDataInfo;
 import com.nikoyo.common.core.text.Convert;
 import com.nikoyo.common.enums.BusinessType;
-import com.ruoyi.generator.domain.GenTable;
-import com.ruoyi.generator.domain.GenTableColumn;
-import com.ruoyi.generator.service.IGenTableColumnService;
-import com.ruoyi.generator.service.IGenTableService;
+import com.nikoyo.generator.domain.GenTable;
+import com.nikoyo.generator.domain.GenTableColumn;
+import com.nikoyo.generator.service.IGenTableColumnService;
+import com.nikoyo.generator.service.IGenTableService;
 
 /**
  * 代码生成 操作处理

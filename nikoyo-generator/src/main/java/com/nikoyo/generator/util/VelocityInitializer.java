@@ -1,4 +1,4 @@
-package com.ruoyi.generator.util;
+package com.nikoyo.generator.util;
 
 import java.util.Properties;
 import org.apache.velocity.app.Velocity;

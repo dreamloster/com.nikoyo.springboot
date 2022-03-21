@@ -1,12 +1,12 @@
-package com.ruoyi.generator.util;
+package com.nikoyo.generator.util;
 
 import java.util.Arrays;
 import org.apache.commons.lang3.RegExUtils;
 import com.nikoyo.common.constant.GenConstants;
 import com.nikoyo.common.utils.StringUtils;
-import com.ruoyi.generator.config.GenConfig;
-import com.ruoyi.generator.domain.GenTable;
-import com.ruoyi.generator.domain.GenTableColumn;
+import com.nikoyo.generator.config.GenConfig;
+import com.nikoyo.generator.domain.GenTable;
+import com.nikoyo.generator.domain.GenTableColumn;
 
 /**
  * 代码生成器 工具类

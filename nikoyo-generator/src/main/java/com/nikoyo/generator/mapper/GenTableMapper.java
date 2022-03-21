@@ -1,7 +1,7 @@
-package com.ruoyi.generator.mapper;
+package com.nikoyo.generator.mapper;
 
 import java.util.List;
-import com.ruoyi.generator.domain.GenTable;
+import com.nikoyo.generator.domain.GenTable;
 
 /**
  * 业务 数据层

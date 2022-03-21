@@ -1,11 +1,11 @@
-package com.ruoyi.generator.service;
+package com.nikoyo.generator.service;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import com.nikoyo.common.core.text.Convert;
-import com.ruoyi.generator.domain.GenTableColumn;
-import com.ruoyi.generator.mapper.GenTableColumnMapper;
+import com.nikoyo.generator.domain.GenTableColumn;
+import com.nikoyo.generator.mapper.GenTableColumnMapper;
 
 /**
  * 业务字段 服务层实现

@@ -1,4 +1,4 @@
-package com.ruoyi.generator.util;
+package com.nikoyo.generator.util;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -9,8 +9,8 @@ import com.alibaba.fastjson.JSONObject;
 import com.nikoyo.common.constant.GenConstants;
 import com.nikoyo.common.utils.DateUtils;
 import com.nikoyo.common.utils.StringUtils;
-import com.ruoyi.generator.domain.GenTable;
-import com.ruoyi.generator.domain.GenTableColumn;
+import com.nikoyo.generator.domain.GenTable;
+import com.nikoyo.generator.domain.GenTableColumn;
 
 /**
  * 模板处理工具类

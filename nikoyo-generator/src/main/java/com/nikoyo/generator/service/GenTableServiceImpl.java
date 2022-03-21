@@ -1,4 +1,4 @@
-package com.ruoyi.generator.service;
+package com.nikoyo.generator.service;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
@@ -29,13 +29,13 @@ import com.nikoyo.common.core.text.CharsetKit;
 import com.nikoyo.common.exception.ServiceException;
 import com.nikoyo.common.utils.SecurityUtils;
 import com.nikoyo.common.utils.StringUtils;
-import com.ruoyi.generator.domain.GenTable;
-import com.ruoyi.generator.domain.GenTableColumn;
-import com.ruoyi.generator.mapper.GenTableColumnMapper;
-import com.ruoyi.generator.mapper.GenTableMapper;
-import com.ruoyi.generator.util.GenUtils;
-import com.ruoyi.generator.util.VelocityInitializer;
-import com.ruoyi.generator.util.VelocityUtils;
+import com.nikoyo.generator.domain.GenTable;
+import com.nikoyo.generator.domain.GenTableColumn;
+import com.nikoyo.generator.mapper.GenTableColumnMapper;
+import com.nikoyo.generator.mapper.GenTableMapper;
+import com.nikoyo.generator.util.GenUtils;
+import com.nikoyo.generator.util.VelocityInitializer;
+import com.nikoyo.generator.util.VelocityUtils;
 
 /**
  * 业务 服务层实现

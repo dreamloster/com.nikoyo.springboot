@@ -1,4 +1,4 @@
-package com.ruoyi.generator.domain;
+package com.nikoyo.generator.domain;
 
 import javax.validation.constraints.NotBlank;
 import com.nikoyo.common.core.domain.BaseEntity;
