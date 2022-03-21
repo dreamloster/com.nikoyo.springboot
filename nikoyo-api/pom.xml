@@ -64,6 +64,13 @@
             <version>3.8.1</version>
         </dependency>
 
+        <!-- 项目业务模块-->
+        <dependency>
+            <groupId>com.nikoyo</groupId>
+            <artifactId>nikoyo-business</artifactId>
+            <version>3.8.1</version>
+        </dependency>
+
     </dependencies>
 
     <build>
