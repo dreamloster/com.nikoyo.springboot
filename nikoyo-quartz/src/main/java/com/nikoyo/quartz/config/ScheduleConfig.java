@@ -1,4 +1,4 @@
-//package com.ruoyi.quartz.config;
+//package com.nikoyo.quartz.config;
 //
 //import org.springframework.context.annotation.Bean;
 //import org.springframework.context.annotation.Configuration;
